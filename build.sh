@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t speedtest-cli:latest .
+/usr/bin/docker build -t speedtest-cli:latest .
